@@ -17,7 +17,11 @@ The purpose of this project was to help Steve figure out which stocks were the m
 
   Here we can see that almost all of the stock returns were negative for 2018. All but ENPH and RUN were in the red for that year. From this we can assume that these   two stocks would be Steves parents best options for investment because they had positive returns for the the previous two years.
 
+## Summary
+This project involves refactoring the Module 2 solution code to make it more efficient and suitable for a larger dataset. Refactoring involves making the code more efficient, reducing memory usage, and simplifying the logic to make it easier to read and maintain. Although refactoring the code can be time-consuming and introduce new bugs, it is an important part of the coding process.
 
+In this case, the refactored VBA script loops through all the data in one go, making it more efficient and faster for larger datasets. The new code is also easier to read and maintain with a simpler logic. However, there is still a possibility of introducing new bugs, and the refactoring process can be time-consuming, depending on the size and complexity of the code.
 
+Overall, refactoring the VBA script can significantly improve its performance and efficiency for a larger dataset. It is an essential part of the coding process, and it helps improve the code's reliability and maintainability.
   
 
